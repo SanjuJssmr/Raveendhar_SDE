@@ -1,0 +1,24 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+.animated-cursor {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    transition: transform 0.2s, width 0.2s, height 0.2s, background 0.2s, border 0.2s;
+    background-color: transparent;
+    mix-blend-mode: difference;
+    z-index: 9999;
+  }
+  
+  .animated-cursor.active {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #000;
+    background-color: #000;
+  }
