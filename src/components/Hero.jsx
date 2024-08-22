@@ -21,7 +21,7 @@ const Hero = () => {
     }
   };
   return (
-    <div className='flex sm:w-4/5  sm:h-screen py-28 w-screen items-center justify-center'>
+    <div className='flex sm:w-4/5 font-poppins sm:h-screen py-28 w-screen items-center justify-center'>
       <section className='flex sm:gap-10 text-teal-500  h-full md:flex-row flex-col w-full items-center justify-center'>
         <div className='pb-5 sm:w-2/5'>
           <h1 className='text-2xl sm:text-4xl font-semibold opacity-70 sm:mt-20  text-[#44bec7] uppercase'>Hi there!</h1>

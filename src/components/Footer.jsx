@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className="flex w-full bottom-0 shadow-md drop-shadow-md rounded-t-full z-10 p-5 h-10 justify-center text-white text-lg bg-[#1877f2] ">
+    <div className="flex font-poppins w-full bottom-0 shadow-md drop-shadow-md rounded-t-full z-10 p-5 h-11 justify-center text-white text-lg bg-[#1877f2] ">
     <section className="flex items-center justify-center gap-20 w-full ">
-      <h1>sanjuravi134@gmail.com</h1>
+      <h1>® sanjuravi134@gmail.com</h1>
     </section>
   </div>
   )

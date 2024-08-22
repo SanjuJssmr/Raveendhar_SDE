@@ -57,8 +57,8 @@ const Projects = () => {
     ]
 
     return (
-        <div className='py-10'>
-            <div className="flex w-full gap-1 pb-5 flex-col items-center justify-center  ">
+        <div className='py-10 '>
+            <div className="flex w-full font-poppins gap-1 pb-5 flex-col items-center justify-center  ">
                 <h2 className="text-2xl font-medium text-[#fa3c4c] text-opacity-80 uppercase flex items-center justify-center gap-2">Projects</h2>
                 <p className="flex opacity-60 text-[#d696bb]  text-center">
                     My Projects

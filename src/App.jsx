@@ -15,7 +15,7 @@ import ProblemSolving from "./components/ProblemSolving"
 function App() {
  
   return (
-    <div   className="flex  flex-col items-center justify-center bg-gray-50 font-poppins  w-full h-full  ">
+    <div   className="flex  flex-col items-center justify-center bg-gray-50 w-full h-full  ">
     <Navbar />
     <Hero/>
     {/* <About /> */}
