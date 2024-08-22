@@ -10,7 +10,7 @@ import animationData from '../assets/prof.json';
 
 const Hero = () => {
   const handleResumeClick = () => {
-    window.open(`/src/assets/Raveendhar_SDE.pdf`, '_blank');
+    window.open(`../Raveendhar_SDE.pdf`, '_blank');
   };
   const defaultOptions = {
     loop: true,
