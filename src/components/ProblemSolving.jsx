@@ -40,8 +40,8 @@ const ProblemSolving = () => {
                     Writings and Problem Solvings
                 </p>
             </div>
-            <section className='flex sm:flex-nowrap flex-wrap  w-full h-full gap-5'>
-                <div className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit flex-col items-center justify-center '>
+            <section className='flex sm:flex-nowrap flex-wrap  w-full h-full sm:gap-5 gap-10'>
+                <div data-aos='fade-up' className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit flex-col items-center justify-center '>
                     <section>
                         <Lottie
                             options={defaultOptions}
@@ -52,7 +52,7 @@ const ProblemSolving = () => {
                         <a href='https://leetcode.com/u/sanjuravi134/' className='text-orange-500 w-full h-full uppercase rounded-md '>Leet Code</a>
                     </section>
                 </div>
-                <div className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit  flex-col items-center justify-center '>
+                <div data-aos='fade-up' className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit  flex-col items-center justify-center '>
                     <section>
                         <Lottie
                             options={BlogtOptions}
@@ -62,7 +62,7 @@ const ProblemSolving = () => {
                         <a href='https://medium.com/@sanjuravi134' className='text-gray-500 w-full h-full uppercase rounded-md '>Medium</a>
                     </section>
                 </div>
-                <div className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit flex-col items-center justify-center '>
+                <div data-aos='fade-up' className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit flex-col items-center justify-center '>
                     <section>
                         <Lottie
                             options={geekOptions}

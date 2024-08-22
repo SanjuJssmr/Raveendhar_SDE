@@ -23,7 +23,7 @@ const Qualification = () => {
                     My personal journey
                 </p>
             </div>
-            <div data-aos='fade-up' class=" w-full flex sm:ml-10 ml-2 justify-center items-center mb-16">
+            <div  class=" w-full flex sm:ml-10 ml-2 justify-center items-center mb-16">
                 <div>
                     <section class='sm:flex hidden flex-col'>
                         <div class='flex flex-col items-center  justify-center'>
@@ -41,7 +41,7 @@ const Qualification = () => {
                 <div class='flex flex-col sm:gap-0 gap-10'>
                     <section className='flex  items-center px-10 justify-center gap10 w-full h-full'>
 
-                        <section class='flex   items-center justify-center'>
+                        <section data-aos='fade-up' class='flex   items-center justify-center'>
                             <div class='flex shadow-md rounded-md  shadow-gray-300 sm:p-10 p-7 flex-col text-xs sm:text-2xl'>
                                 <div class='flex font-poppins items-center uppercase gap-1 sm:gap-4'>
                                     <h1 class='text-[#fa3c4c]'>Dokonaly</h1>
@@ -67,7 +67,7 @@ const Qualification = () => {
 
 
                     </section>
-                    <section className='flex  items-center px-10 justify-center  gap-10 w-full h-full '>
+                    <section data-aos='fade-up' className='flex  items-center px-10 justify-center  gap-10 w-full h-full '>
                         <section class='flex   items-center justify-center'>
                             <div class='flex shadow-md rounded-md  shadow-gray-300 sm:p-10 p-7 flex-col text-xs sm:text-2xl'>
                                 <div class='flex font-poppins items-center uppercase gap-1 sm:gap-4'>

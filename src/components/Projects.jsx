@@ -65,7 +65,7 @@ const Projects = () => {
                 </p>
             </div>
             <div>
-                <section className='flex items-center justify-center flex-wrap gap-5'>
+                <section data-aos='fade-up' className='flex items-center justify-center flex-wrap gap-5'>
                     {projects?.map((proj, i) => (
                         <div className='flex relative text-[#2F5061] rounded-xl flex-col w-[250px] height-[400px] backdrop-blur-3xl bg-gradient-to-t drop-shadow-md shadow-md  from-[#f6f6f6] to-gray-100 p-1 items-center justify-between'>
                             <section className=' absolute'>
