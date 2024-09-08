@@ -23,7 +23,7 @@ const Contact = () => {
                 <section className='flex w-[250px]  flex-col items-center justify-center text-xl'>
                     <PiPhoneCall className='text-7xl flex items-center mb-9 justify-center gap-0   text-[#44bec7]  border-gray-400  border-2 rounded-full p-4' />
                     <h3 className='text-lg opacity-70'>Call: <span className='font-semibold'>+91 7010251056</span> </h3>
-                    <h3 className='text-lg opacity-70'>Whatsapp: <span className='font-semibold'>+91 7010251056</span></h3>
+                    <h3 className='text-lg opacity-70'>WApp: <span className='font-semibold'>+91 7010251056</span></h3>
 
                 </section>
                 <section className='flex w-[250px]  flex-col items-center justify-center text-xl'>

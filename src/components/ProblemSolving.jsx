@@ -70,7 +70,7 @@ const ProblemSolving = () => {
                         />
                     </section>
                     <section className='flex flex-col items-center justify-center gap-5'>
-                        <a href='https://www.geeksforgeeks.org/user/38jy5x3nmyg0iqxez2kh49fdd1n3u38bjsyj775d' className='text-emerald-500 w-full h-full uppercase rounded-md '>Geeks for Geeks</a>
+                        <a href='https://www.geeksforgeeks.org/user/38jy5x3nmyg0iqxez2kh49fdd1n3u38bjsyj775d' className='text-emerald-500 w-full h-full uppercase rounded-md '>GeeksforGeeks</a>
                     </section>
                 </div>
             </section>
