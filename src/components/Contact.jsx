@@ -5,7 +5,7 @@ import { LuMailPlus } from "react-icons/lu"
 
 const Contact = () => {
     return (
-        <div className='sm:mb-32 font-poppins mt-16 mb-10 w-full'>
+        <div className='sm:mb-36 font-poppins mt-16 mb-10 w-full'>
             <div className="flex w-full gap-1 pb-5 flex-col items-center justify-center  ">
                 <h2 className="text-2xl font-medium text-[#fa3c4c] text-opacity-80 uppercase flex items-center justify-center gap-2">Get in Touch</h2>
                 <p className="flex opacity-60 text-[#d696bb]  text-center">

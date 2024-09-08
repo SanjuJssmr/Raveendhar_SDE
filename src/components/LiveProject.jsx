@@ -14,7 +14,7 @@ const LiveProject = () => {
                 <section className='flex-col sm:flex-row flex gap-10 items-center justify-center'>
                     <img src={abc} alt="" width={200} height={200} />
                     <section className="flex  flex-col items-start gap-3 justify-center">
-                        <a href='https://app.allmasters.ai/' className=' cursor-pointer font-poppins text-gray-600 text-2xl'>AllMasters.ai |</a>
+                        <a href='https://app.allmasters.ai/' className=' cursor-pointer font-poppins text-gray-600 text-2xl'>AllMasters.ai|</a>
                         <div className='text-gray-600 sm:text-sm text-xs text-justify '>
                             ✔️ Handling the backend part of the live product Allmasters.ai by creating and
                             maintaining REST APIs and core functionalities with strong debugging and

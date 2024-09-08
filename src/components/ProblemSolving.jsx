@@ -33,7 +33,7 @@ const ProblemSolving = () => {
         }
     };
     return (
-        <div className='flex sm:h-screen font-poppins h-full items-center justify-center flex-col mx-20'>
+        <div className='flex sm:h-screen font-poppins h-full items-center justify-center flex-col mx-20 mt-10'>
             <div className="flex w-full gap-1 pb-5 flex-col items-center justify-center  ">
                 <h2 className="text-2xl font-medium text-[#fa3c4c] text-opacity-80 uppercase flex items-center justify-center gap-2">Links</h2>
                 <p className="flex opacity-60 text-[#d696bb]  text-center">

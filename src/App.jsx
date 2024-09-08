@@ -29,14 +29,14 @@ function App() {
   }, [])
 
   return (
-    <div className="flex  flex-col items-center justify-center bg-gray-50 w-full h-full  ">
+    <div className="flex  font-mono flex-col items-center justify-center bg-gray-50 w-full h-full  ">
       <Navbar />
       <Hero />
       {/* <About /> */}
       <Qualification  />
+      <LiveProject />
       <Skills />
       <Projects />
-      <LiveProject />
       <ProblemSolving />
       <Contact />
       <Footer />

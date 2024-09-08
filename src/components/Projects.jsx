@@ -8,21 +8,41 @@ import proj4 from "../assets/filter.jpg"
 import proj5 from "../assets/stack.png"
 import proj6 from "../assets/ecom.jpg"
 import proj7 from "../assets/medi.jpg"
-import proj8 from "../assets/interface1.jpg"
+import proj8 from "../assets/amazon.png"
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import 'react-lazy-load-image-component/src/effects/blur.css';
 
 const Projects = () => {
     const projects = [
         {
-            name: "Damage To Data",
-            image: proj1,
-            link: "https://github.com/SanjuJssmr/OCR"
+            name: "MobiMart",
+            image: proj8,
+            link: "https://mobimartui.onrender.com/login"
         },
         {
             name: "Logistic Social",
             image: proj2,
-            link: "https://github.com/SanjuJssmr/LogisticMedia"
+            link: "https://allmastersocial.onrender.com/login"
+        },
+        {
+            name: "Stackoverflow Clone",
+            image: proj5,
+            link: "https://overflowfrontend.onrender.com/"
+        },
+        {
+            name: "Medi Chat",
+            image: proj7,
+            link: "https://rmcfront.onrender.com/"
+        },
+        {
+            name: "Filter Table",
+            image: proj4,
+            link: "https://mernfunctiontable.netlify.app/"
+        },
+        {
+            name: "Damage To Data",
+            image: proj1,
+            link: "https://github.com/SanjuJssmr/OCR"
         },
         {
             name: "Blog App",
@@ -30,29 +50,9 @@ const Projects = () => {
             link: "https://github.com/SanjuJssmr/BlogBackend"
         },
         {
-            name: "Filter Table",
-            image: proj4,
-            link: "https://github.com/SanjuJssmr/merncrud"
-        },
-        {
-            name: "Stackoverflow Clone",
-            image: proj5,
-            link: "https://github.com/SanjuJssmr/overFlowBackend"
-        },
-        {
             name: "Ecommerce App",
             image: proj6,
             link: "https://github.com/SanjuJssmr/simpleEcom"
-        },
-        {
-            name: "Medi Chat",
-            image: proj7,
-            link: "https://github.com/SanjuJssmr/rmcappb"
-        },
-        {
-            name: "Analytic Table",
-            image: proj8,
-            link: "https://github.com/SanjuJssmr/algobullsTO-DO"
         }
     ]
 
