@@ -1,14 +1,14 @@
 import React from 'react'
 import { FaGithub } from "react-icons/fa"
 import { LuArrowUpRightSquare } from 'react-icons/lu'
-import proj1 from "../assets/ocr.jpg"
-import proj2 from "../assets/logistic.jpg"
-import proj3 from "../assets/course1.jpg"
-import proj4 from "../assets/filter.jpg"
+import proj1 from "../assets/ocr.webp"
+import proj2 from "../assets/logistic.webp"
+import proj3 from "../assets/course1.webp"
+import proj4 from "../assets/filter.webp"
 import proj5 from "../assets/stack.png"
-import proj6 from "../assets/ecom.jpg"
-import proj7 from "../assets/medi.jpg"
-import proj8 from "../assets/amazon.png"
+import proj6 from "../assets/ecom.webp"
+import proj7 from "../assets/medi.webp"
+import proj8 from "../assets/amazon.webp"
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import 'react-lazy-load-image-component/src/effects/blur.css';
 
