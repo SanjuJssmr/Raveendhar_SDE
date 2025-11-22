@@ -35,18 +35,17 @@ const LiveProject = () => {
 
                         </div>
                         <div className='flex gap-2 pt-2 sm:text-sm text-xs flex-wrap'>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2   py-1'>NodeJs</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>ExpressJs</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2   py-1'>Java</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>SpringBoot</p>
                             <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2   py-1'>MongoDb</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2   py-1'>Azure</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Aws/S3</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Nodemailer</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Cron</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Multer</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Helmet</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Ejs</p>
-                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Docker</p>
-
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>ReactJs</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>S3</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>EC2</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2   py-1'>ECS</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>SQS</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Thymleaf</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Sentry</p>
+                            <p className='w-fit rounded-md  bg-[#1877f2] bg-opacity-20 text-[#2F5061]  px-2  py-1'>Cloudfront</p>
                         </div>
                     </section>
                 </section>
