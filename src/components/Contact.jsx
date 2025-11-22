@@ -16,7 +16,7 @@ const Contact = () => {
                 <section className='flex w-[250px] flex-col items-center justify-center gap-8 text-xl'>
                     <SlLocationPin className='text-7xl text-[#44bec7]  border-gray-400 border-2 rounded-full p-4' />
                     <div className='flex items-center justify-center flex-col text-lg opacity-70'>
-                        <h3>Choolaimedu, <span className='font-semibold'>Chennai</span></h3>
+                        <h3>Perungudi, <span className='font-semibold'>Chennai</span></h3>
                         <h3>TN,India</h3>
                     </div>
                 </section>

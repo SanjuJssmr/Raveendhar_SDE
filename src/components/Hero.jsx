@@ -10,7 +10,7 @@ import animationData from '../assets/prof.json';
 
 const Hero = () => {
   const handleResumeClick = () => {
-    window.open(`../Raveendhar_SDE.pdf`, '_blank');
+    window.open(`../RAVEENDHAR_SDE.pdf`, '_blank');
   };
   const defaultOptions = {
     loop: true,
@@ -26,7 +26,7 @@ const Hero = () => {
         <div className='pb-5 sm:w-2/5'>
           <h1 className='text-2xl sm:text-4xl font-semibold opacity-70 sm:mt-20  text-[#44bec7] uppercase'>Hi there!</h1>
           <h1 className='text-3xl sm:text-[40px] font-semibold font-serif uppercase text-[#fa3c4c]'>Raveendhar <span className='opacity-70 font-mono'>here</span> </h1>
-          <h6 className='text-xl sm:text-3xl uppercase font-extralight sm:mb-10 mb-3 text-[#d696bb] items-center justify-center '>Web Developer<span className=' text-3xl' data-aos='zoom-in '>🚀</span></h6>
+          <h6 className='text-xl sm:text-3xl uppercase font-extralight sm:mb-10 mb-3 text-[#d696bb] items-center justify-center '>Backend Engineer<span className=' text-3xl' data-aos='zoom-in '>🚀</span></h6>
           <button onClick={handleResumeClick} className='flex w-fit text-white px-5  py-2 hover:bg-[#182af2] mb-10 bg-[#1877f2] rounded-md '>RESUME</button>
         </div>
         {/* <div className='flex  md:w-64  xl:w-80 w-52  justify-center pr-2 '>

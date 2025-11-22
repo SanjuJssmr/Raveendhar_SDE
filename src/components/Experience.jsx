@@ -44,16 +44,16 @@ const Qualification = () => {
                         <section data-aos='fade-up' class='flex   items-center justify-center'>
                             <div class='flex shadow-md rounded-md  shadow-gray-300 sm:p-10 p-7 flex-col text-xs sm:text-2xl'>
                                 <div class='flex font-poppins items-center uppercase gap-1 sm:gap-4'>
-                                    <h1 class='text-[#fa3c4c]'>Dokonaly</h1>
-                                    <h1 class='text-gray-500  '>( Web Developer )</h1>
+                                    <h1 class='text-[#fa3c4c]'>Paperflite</h1>
+                                    <h1 class='text-gray-500  '>( Technical support engineer )</h1>
                                 </div>
                                 <div class='flex items-center font-poppins text-[#44bec7] text-sm sm:text-lg uppercase gap-1 sm:gap-5 pb-2 sm:pb-5'>
                                     {
                                         <BsCalendarCheckFill className=" mb-1 " />
                                     }
-                                    Aug 2023 - Present
+                                    Nov 2024 - Present
                                 </div>
-                                <p class='sm:text-lg text-sm  text-gray-500 text-justify'>Handling the backend part along with server-side operations and database management starts from schema design till production, with regardless troubleshooting and debugging skills with multiple environment maintenance and scalability.</p>
+                                <p class='sm:text-lg text-sm  text-gray-500 text-justify'>Handling backend development, server-side operations, and end-to-end management ensuring reliability, scalability, and high performance. Skilled in CI/CD automation, microservices migration, third-party API integrations, and resolving complex infrastructure issues with zero downtime, alongside continuous optimization for improved system efficiency.</p>
                             </div>
                             <div class='hidden sm:flex'>
 
@@ -67,21 +67,21 @@ const Qualification = () => {
 
 
                     </section>
-                    <section data-aos='fade-up' className='flex  items-center px-10 justify-center  gap-10 w-full h-full '>
-                        <section class='flex   items-center justify-center'>
+                     <section className='flex  items-center px-10 justify-center gap10 w-full h-full'>
+
+                        <section data-aos='fade-up' class='flex   items-center justify-center'>
                             <div class='flex shadow-md rounded-md  shadow-gray-300 sm:p-10 p-7 flex-col text-xs sm:text-2xl'>
                                 <div class='flex font-poppins items-center uppercase gap-1 sm:gap-4'>
-                                <h1 class='text-[#fa3c4c]'>Null class</h1>
-                                <h1 class='text-gray-500'>( Full stack intern )</h1>
+                                    <h1 class='text-[#fa3c4c]'>Dokonaly</h1>
+                                    <h1 class='text-gray-500  '>( Web Developer )</h1>
                                 </div>
-                                <div class='flex font-poppins items-center text-[#44bec7] text-sm sm:text-lg uppercase gap-1 sm:gap-5 pb-2 sm:pb-5'>
+                                <div class='flex items-center font-poppins text-[#44bec7] text-sm sm:text-lg uppercase gap-1 sm:gap-5 pb-2 sm:pb-5'>
                                     {
                                         <BsCalendarCheckFill className=" mb-1 " />
                                     }
-                                    Apr 2023 - June 2023
+                                    Aug 2023 - Nov 2024
                                 </div>
-                                <p class='sm:text-lg text-sm text-gray-500 text-justify'>Gain knowledge of how software development works end-to-end along with the best practices that need to be followed, then build the clone of stack overflow using MERN stack.</p>
-
+                                <p class='sm:text-lg text-sm  text-gray-500 text-justify'>Handling the backend part along with server-side operations and database management starts from schema design till production, with regardless troubleshooting and debugging skills with multiple environment maintenance and scalability.</p>
                             </div>
                             <div class='hidden sm:flex'>
 
@@ -92,7 +92,6 @@ const Qualification = () => {
                                 />
                             </div>
                         </section>
-
                     </section>
                 </div>
             </div>
