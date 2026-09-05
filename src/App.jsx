@@ -29,7 +29,7 @@ function App() {
   }, [])
 
   return (
-    <div className="flex overflow-hidden font-mono flex-col items-center justify-center bg-gray-50 w-fit h-full  ">
+    <div className="flex overflow-hidden font-sans flex-col items-center justify-center bg-gray-50 w-full min-h-full leading-body">
       <Navbar />
       <Hero />
       {/* <About /> */}

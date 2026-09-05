@@ -34,9 +34,9 @@ const ProblemSolving = () => {
     };
     return (
         <div className='flex sm:h-screen font-poppins h-full items-center justify-center flex-col mx-20 mt-10'>
-            <div className="flex w-full gap-1 pb-5 flex-col items-center justify-center  ">
-                <h2 className="text-2xl font-medium text-[#fa3c4c] text-opacity-80 uppercase flex items-center justify-center gap-2">Links</h2>
-                <p className="flex opacity-60 text-[#d696bb]  text-center">
+            <div className="flex w-full gap-2 pb-8 flex-col items-center justify-center  ">
+                <h2 className="text-2xl font-medium text-[#fa3c4c] text-opacity-80 uppercase flex items-center justify-center gap-2 leading-heading">Links</h2>
+                <p className="flex opacity-60 text-[#d696bb]  text-center leading-body">
                     Writings and Problem Solvings
                 </p>
             </div>
@@ -49,7 +49,7 @@ const ProblemSolving = () => {
                         />
                     </section>
                     <section className='flex flex-col items-center justify-center gap-5'>
-                        <a href='https://leetcode.com/u/sanjuravi134/' className='text-orange-500 w-full h-full uppercase rounded-md '>Leet Code</a>
+                        <a href='https://leetcode.com/u/sanjuravi134/' className='text-orange-500 w-full h-full uppercase rounded-md leading-heading'>Leet Code</a>
                     </section>
                 </div>
                 <div data-aos='fade-up' className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit  flex-col items-center justify-center '>
@@ -59,7 +59,7 @@ const ProblemSolving = () => {
                         />
                     </section>
                     <section className='flex flex-col items-center justify-center gap-5'>
-                        <a href='https://medium.com/@sanjuravi134' className='text-gray-500 w-full h-full uppercase rounded-md '>Medium</a>
+                        <a href='https://medium.com/@sanjuravi134' className='text-gray-500 w-full h-full uppercase rounded-md leading-heading'>Medium</a>
                     </section>
                 </div>
                 <div data-aos='fade-up' className='flex shadow-md drop-shadow-md shadow-gray-300 sm:w-1/3 w-fit rounded-md  px-10 pb-10 h-fit flex-col items-center justify-center '>
@@ -70,7 +70,7 @@ const ProblemSolving = () => {
                         />
                     </section>
                     <section className='flex flex-col items-center justify-center gap-5'>
-                        <a href='https://www.geeksforgeeks.org/user/38jy5x3nmyg0iqxez2kh49fdd1n3u38bjsyj775d' className='text-emerald-500 w-full h-full uppercase rounded-md '>GeeksforGeeks</a>
+                        <a href='https://www.geeksforgeeks.org/user/38jy5x3nmyg0iqxez2kh49fdd1n3u38bjsyj775d' className='text-emerald-500 w-full h-full uppercase rounded-md leading-heading'>GeeksforGeeks</a>
                     </section>
                 </div>
             </section>

@@ -22,3 +22,12 @@
     border: 2px solid #000;
     background-color: #000;
   }
+
+.skill-tile {
+    transition: transform 0.25s ease, color 0.25s ease;
+}
+
+.skill-tile:hover {
+    transform: translateY(-6px) scale(1.06);
+    color: #1877f2;
+}
